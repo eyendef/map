@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinaz Area A",
+        "region": "Chinaz",
+        "flood_projects": 11,
+        "president_votes": {
+          "Shavkat Mirziyoyev": 1500,
+          "Opponent B": 3200,
+          "Independent C": 800
+        },
+        "vice_votes": {
+          "Candidate X": 2400,
+          "Candidate Y": 2600
+        },
+        "senatorial": [
+          [
+            "Candidate 1",
+            2300
+          ],
+          [
+            "Candidate 2",
+            1800
+          ],
+          [
+            "Candidate 3",
+            900
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              69.5,
+              40.9
+            ],
+            [
+              69.52,
+              40.902
+            ],
+            [
+              69.525,
+              40.89
+            ],
+            [
+              69.505,
+              40.887
+            ],
+            [
+              69.5,
+              40.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinaz Area B",
+        "region": "Chinaz",
+        "flood_projects": 3,
+        "president_votes": {
+          "Shavkat Mirziyoyev": 900,
+          "Opponent B": 1100,
+          "Independent C": 250
+        },
+        "vice_votes": {
+          "Candidate X": 1500,
+          "Candidate Y": 750
+        },
+        "senatorial": [
+          [
+            "Candidate 1",
+            1200
+          ],
+          [
+            "Candidate 2",
+            900
+          ],
+          [
+            "Candidate 3",
+            300
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              69.53,
+              40.905
+            ],
+            [
+              69.545,
+              40.905
+            ],
+            [
+              69.548,
+              40.892
+            ],
+            [
+              69.532,
+              40.89
+            ],
+            [
+              69.53,
+              40.905
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
